@@ -51,7 +51,7 @@ python: gradle
 
 MAVEN VS ANT:
 
-maven is procedural, ant is declarative.
+maven is declarative, ant is procedural.
 maven: pom.xml, ant: build.xml
 maven: lifecycle, ant: not have a lifecycle
 maven: plugins (reusable), ant: scripts (not reusable)
